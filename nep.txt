@@ -2,7 +2,7 @@ nep3 3 Ga O C
 cutoff 8 4
 n_max 8 8
 basis_size 8 8
-l_max 4 2 0
+l_max 4 0 0
 ANN 60 0
   1.0564953e-01
  -1.3654586e+00
